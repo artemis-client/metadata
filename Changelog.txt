@@ -1,0 +1,3 @@
+test1:NEW
+test2:MODIFIED
+test3:REMOVED
