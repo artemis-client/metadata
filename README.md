@@ -1,2 +1,2 @@
 # metadata
-Artemis changelog and news
+this is just the repository that stores the clients updates, announcements, etc.
